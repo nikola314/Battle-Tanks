@@ -1,2 +1,2 @@
 # Battle-Tanks
-Arcade game (Tank 1990)
+Arcade game written in C (SDL for graphics).
